@@ -302,3 +302,10 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+
+div.container {
+    padding: 100px;
+    text-align: center;
+}
+
